@@ -3,4 +3,6 @@ searching a number
 sequential search
 binary search  
 
+normal search
+
 Thank you :)
