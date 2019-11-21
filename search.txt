@@ -3,6 +3,12 @@ searching a number
 sequential search
 binary search  
 
+normal search
+
 Thank you :)
 
+
+done my changes
+
 final copy
+
