@@ -1,4 +1,6 @@
 searching a number
 
 sequential search
-binary search 
+binary search  
+
+Thank you :)
